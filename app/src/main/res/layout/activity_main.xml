@@ -66,8 +66,15 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <EditText
-            android:id="@+id/edit_result"
+            android:id="@+id/edit_name_result"
             android:background="#00ff00"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        <EditText
+            android:id="@+id/edit_count_result"
+            android:background="#00ff00"
+            android:layout_weight="1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
     </LinearLayout>
