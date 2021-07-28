@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Projec12_2</string>
-    <string name="name">이름</string>
-    <string name="count">인원</string>
+    <string name="name">이름: </string>
+    <string name="count">인원: </string>
     <string name="btn_init">초기화</string>
+    <string name="btn_input">입력</string>
+    <string name="btn_search">조회</string>
 </resources>
